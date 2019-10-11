@@ -1,0 +1,3 @@
+FirstName;Lastname;Email;Password;Password_confirm;Signup_url
+Peter;Willer;PeterWiller@example.com;PaSSw0Rd31;PaSSw0Rd31;http://18october.com/customer/account/create/
+Franz;Willer;FranzWiller@example.com;PaSSw0Rd31;PaSSw0Rd31;https://www.123saunas.com/customer/account/create/
